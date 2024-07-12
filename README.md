@@ -16,4 +16,5 @@ For any feedback or inquiries regarding this code, please contact Armin Dadras E
 
 Reference:
 
-[1] Armin Dadras Eslamlou, Shiping Huang. "Multi-objective AutoML for Enhanced Vision-based Structural Health Monitoring: A New Reinforcement-Learning-based Metaheuristic Approach", Automation in Construction (2024)S"# Enhanced-Vision-SHM-AutoML" 
+[1] Armin Dadras Eslamlou, Shiping Huang, Reinforcement learning for multi-objective AutoML in vision-based structural health monitoring, Automation in Construction, Volume 166, 2024, https://doi.org/10.1016/j.autcon.2024.105593. 
+(https://www.sciencedirect.com/science/article/pii/S0926580524003297)
